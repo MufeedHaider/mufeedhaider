@@ -1,6 +1,11 @@
 # Hi I'm Mufeed 👋
+👋 Hi, I'm a CS student with a knack for coding and problem-solving!
+🚀 I dive into algorithms, data structures, and software development. 
+Check out my projects, including a C++ red bus routing system with a custom Dijkstra’s algorithm. 
+Let’s connect and innovate together! 💡
 
 [![](https://visitcount.itsvg.in/api?id=MufeedHaider&icon=5&color=10)](https://visitcount.itsvg.in)
+
 ## 🌐 Socials:
 <p><a href="https://www.linkedin.com/in/MUFEED ZAIDI/"><img src="https://img.shields.io/badge/mufeed-zaidi-673505214?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/MUFEED ZAIDI/" alt="LinkedIn Badge"></a></p>
 
