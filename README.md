@@ -4,7 +4,7 @@
 
 🚀 I dive into algorithms, data structures, and software development.
 
-Check out my projects, including a C++ red bus routing system with a custom Dijkstra’s algorithm.
+Check out my projects!
 
 Let’s connect and innovate together! 💡
 
